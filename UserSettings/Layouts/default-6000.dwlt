@@ -301,9 +301,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 588.8
+    y: 533.6
     width: 1171.8
-    height: 181.19998
+    height: 181.20001
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -345,7 +345,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 74b50000
     m_LastClickedID: 46452
-    m_ExpandedIDs: 0000000000ca9a3b
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,8 +453,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1172.8
-    y: 79.200005
+    x: 1173.8
+    y: 24
     width: 362.19995
     height: 690.8
   m_SerializedDataModeController:
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 289.4
     height: 483.6
   m_SerializedDataModeController:
@@ -520,7 +520,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ecb40000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 12f4ffff
       m_RenameOverlay:
@@ -1142,7 +1142,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: -1.4394343, y: 0.89273536, z: 0.018970435}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1194,7 +1194,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 8.102953
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1246,8 +1246,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 290.4
-    y: 79.200005
+    x: 291.4
+    y: 24
     width: 880.4
     height: 483.6
   m_SerializedDataModeController:
@@ -1306,7 +1306,7 @@ MonoBehaviour:
       width: 880.4
       height: 462.6
     m_Scale: {x: 1.25, y: 1.25}
-    m_Translation: {x: 440.2, y: 231.30002}
+    m_Translation: {x: 440.2, y: 231.30003}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1314,7 +1314,7 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -352.16
-      y: -185.04001
+      y: -185.04002
       width: 704.32
       height: 370.08002
     m_MinimalGUI: 1
